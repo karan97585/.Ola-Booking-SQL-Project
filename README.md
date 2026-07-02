@@ -76,8 +76,11 @@ The project includes SQL queries to analyze:
 ---
 
 ## Project Screenshots
-
-(Add dashboard screenshots here)
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/de09e3e6-9d35-4582-811f-06fca5aa6b77" />
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/1834bb42-bea8-43f0-97fb-e3fcaefb556e" />
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c6b7cad-aa2b-44e0-9b3e-8cd0d037b271" />
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/2173fcbc-10a6-4a09-974d-b8bd50eaa16b" />
+<img width="2160" height="1440" alt="image" src="https://github.com/user-attachments/assets/afed3c14-8b37-4173-9312-20496c11ef25" />
 
 ---
 
